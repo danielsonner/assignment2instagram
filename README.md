@@ -15,5 +15,5 @@ Sign in:
 New Post:
 ![alt text](./newPost.png "New Post")
 
-Sing Up:
+Sign Up:
 ![alt text](signUp.png "Sign Up")
